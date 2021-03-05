@@ -1,0 +1,54 @@
+header {	
+	background-color: #222222;
+	height: 100%;
+	position: fixed;
+	top: 0;
+}
+.header1{
+	margin-left:30px;
+	margin-top: 50px;
+
+}
+
+.text{ 
+	display: flex;	
+	font-size:24px;
+	color: #FFFFFF;
+	margin-bottom: 103px;
+}
+
+.distance{
+	margin-left:88px;
+	margin-right: 30px;
+}
+
+.nav1 ul li {
+	margin-bottom: 33px;
+	width: 259px;
+	height: 60px;
+	display: flex;
+	align-items: center;
+	padding-left: 30px;
+}
+
+.nav1 ul li a {
+	margin-left: 15px;
+	color: #FFFFFF;
+}
+
+.nav1 ul li:hover{
+background-color:#FF2288;
+border-radius: 12px;
+}
+.back{
+	background-color:#FF2288;
+	border-radius: 12px;
+}
+.follow{
+	display: flex;
+	flex-grow: column;
+	color: #FFFFFF;
+}
+.profile{
+	
+}
